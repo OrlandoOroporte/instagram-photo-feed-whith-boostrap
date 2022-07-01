@@ -1,0 +1,11 @@
+.fuente {font-family: 'Oleo Script', cursive;
+}
+.bg-personal {
+    background: white;
+}
+
+.nav-pills {
+    --bs-nav-pills-border-radius: 0.375rem;
+    --bs-nav-pills-link-active-color: #fff;
+    --bs-nav-pills-link-active-bg: #eff0f3;
+}
